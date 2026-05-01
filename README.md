@@ -13,10 +13,14 @@
 
 ## 🚀 About Me
 
-🎓 BS Computer Science — Islamia College University Peshawar
-🔬 Research Assistant — Digital Image Processing (DIP) Lab
+I am a Research Assistant at the **Digital Image Processing (DIP) Lab, Islamia College Peshawar**, working under the supervision of **Dr. Muhammad Sajjad** and **Dr. Khan Muhammad**. My work focuses on the intersection of **computer vision and deep learning**, where I explore advanced modeling approaches and data-driven solutions.
 
-I work on developing **deep learning models and reproducible research pipelines** for complex data-driven problems. My focus lies in **multimodal learning, model experimentation, and structured dataset analysis**.
+I hold a Bachelor’s degree in **Computer Science** from Islamia College Peshawar, Pakistan. During my undergraduate studies, I developed a strong foundation in **Computer Vision, Machine Learning, and Deep Learning**, which continue to shape my current research direction.
+
+In addition to research, I have been involved in teaching **Artificial Intelligence, Machine Learning, and Deep Learning** in vocational training programs, contributing to skill development and knowledge dissemination.
+
+Beyond technical work, I actively engage with **cutting-edge research**, continuously exploring new ideas, methodologies, and advancements in the field.
+
 
 ---
 
