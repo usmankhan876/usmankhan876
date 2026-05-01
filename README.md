@@ -121,11 +121,16 @@ A reproducible deep learning pipeline for multimodal data processing, dataset va
   <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" />
 </a>
 
+<a href="https://www.linkedin.com/in/usman-khan-62384124b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 <a href="mailto:ug37999@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
+
 
 ---
 
