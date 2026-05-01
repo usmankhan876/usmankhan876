@@ -109,9 +109,23 @@ A reproducible deep learning pipeline for multimodal data processing, dataset va
 
 ---
 
-## 🔗 Connect
+## 🌐 Connect With Me
 
-* GitHub: https://github.com/usmankhan876
+<p align="center">
+
+<a href="https://github.com/usmankhan876">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.kaggle.com/usmankhannn">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" />
+</a>
+
+<a href="mailto:ug37999@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
 
 ---
 
