@@ -1,56 +1,81 @@
-# 👋 Hi, I'm Usman Khan
+<h1 align="center">Hi 👋, I'm Usman Khan</h1>
+<h3 align="center">AI Researcher | Deep Learning | Multimodal Systems</h3>
 
-🎓 AI Researcher | Deep Learning | Medical Imaging
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Researcher;Deep+Learning+Enthusiast;Building+Reproducible+ML+Pipelines;Exploring+Multimodal+Learning&center=true&width=500&height=40">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am an AI researcher focused on developing deep learning models and reproducible pipelines for complex multimodal data analysis. My work involves building scalable machine learning systems, experimenting with neural architectures, and exploring advanced modeling techniques for real-world applications.
+I work on developing **scalable deep learning systems** and **reproducible research pipelines**.
+My focus is on designing models that can handle **complex multimodal data** and translating them into structured experimental workflows.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Focus
 
-* Deep Learning & Neural Networks
-* Multimodal Learning
-* Medical Imaging AI
-* Reproducible Machine Learning Pipelines
-* Model Optimization & Training Strategies
+* 🤖 Deep Learning Architectures
+* 🧩 Multimodal Learning Systems
+* 🏗️ End-to-End ML Pipelines
+* 📊 Data Analysis & Validation
+* ⚙️ Model Optimization
 
 ---
 
 ## 🚀 Current Work
 
-* Working on nnU-Net based pipelines
-* Exploring Mixture-of-Modality Experts (MoME)
-* Building end-to-end training and evaluation systems
-* Dataset analysis and validation frameworks
+* 🔹 nnU-Net based research pipelines
+* 🔹 Exploring Mixture-of-Modality Experts (MoME)
+* 🔹 Dataset validation & quality analysis frameworks
+* 🔹 Training & evaluation system design
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python
+<p align="center">
 
-**Frameworks & Tools:**
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github" />
+
+</p>
+
+<p align="center">
 PyTorch · nnU-Net · NumPy · Pandas · Matplotlib
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmankhan876\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmankhan876&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmankhan876" />
+</p>
 
 ---
 
-## 📫 Contact
+## 🔗 Highlight Project
 
-* GitHub: https://github.com/usmankhan876
+🚀 **MoME + nnU-Net Pipeline**
+Reproducible deep learning pipeline for multimodal data processing, validation, and model training.
 
 ---
 
-## 💡 Quote
+## 💡 Philosophy
 
-“Consistency builds expertise. Curiosity drives discovery.”
+> “Consistency builds expertise. Curiosity drives discovery.”
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usmankhan876&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
