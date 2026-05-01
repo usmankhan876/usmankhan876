@@ -1,12 +1,12 @@
 <h1 align="center">👋 I'm Usman Khan</h1>
-<h3 align="center">AI Researcher | Deep Learning | Multimodal Medical Imaging</h3>
+<h3 align="center">AI Researcher | Deep Learning | Working on Medical Imaging</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Researcher;Medical+Imaging+Enthusiast;nnU-Net+%7C+MoME+Exploration;Building+Reproducible+ML+Pipelines&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Researcher;Medical+Imaging+Enthusiast;nnU-Net+%7C+MoME+Exploration;Building+Reproducible+ML+Pipelines&center=true&width=600&height=50">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usmankhan876&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=usmankhan876&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -17,21 +17,20 @@ I am a Research Assistant at the **Digital Image Processing (DIP) Lab, Islamia C
 
 I hold a Bachelor’s degree in **Computer Science** from Islamia College Peshawar, Pakistan. During my undergraduate studies, I developed a strong foundation in **Computer Vision, Machine Learning, and Deep Learning**, which continue to shape my current research direction.
 
-In addition to research, I have been involved in teaching **Artificial Intelligence, Machine Learning, and Deep Learning** in vocational training programs, contributing to skill development and knowledge dissemination.
+In addition to research, I have been involved in teaching **Artificial Intelligence, Machine Learning, and Deep Learning** in vocational training programs.
 
-Beyond technical work, I actively engage with **cutting-edge research**, continuously exploring new ideas, methodologies, and advancements in the field.
-
+Beyond technical work, I actively engage with **cutting-edge research**, continuously exploring new ideas and advancements.
 
 ---
 
 ## 🔬 Research Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-blue" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-green" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-red" />
-  <img src="https://img.shields.io/badge/Multimodal%20Learning-purple" />
-  <img src="https://img.shields.io/badge/AI%20Research-black" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medical%20Imaging-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal%20Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Research-black?style=for-the-badge" />
 </p>
 
 ---
@@ -50,25 +49,30 @@ Beyond technical work, I actively engage with **cutting-edge research**, continu
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript&perline=6" height="60"/>
 </p>
+
+---
 
 ### 📚 Libraries & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-blue" />
-  <img src="https://img.shields.io/badge/Pandas-black" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange" />
-  <img src="https://img.shields.io/badge/Matplotlib-red" />
-  <img src="https://img.shields.io/badge/Seaborn-teal" />
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Matplotlib-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-teal?style=for-the-badge" />
 </p>
+
+---
 
 ### 🤖 Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/nnU--Net-darkgreen" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" height="60"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/nnU--Net-darkgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -76,11 +80,8 @@ Beyond technical work, I actively engage with **cutting-edge research**, continu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmankhan876&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmankhan876" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmankhan876&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmankhan876" height="170"/>
 </p>
 
 ---
@@ -130,7 +131,6 @@ A reproducible deep learning pipeline for multimodal data processing, dataset va
 </a>
 
 </p>
-
 
 ---
 
